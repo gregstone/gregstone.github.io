@@ -1,2 +1,4 @@
-Hello world test perso fgdihfoidf
-test link : [test](/homePage.md)
+# Wiki and code snipets
+
+* [SQL cheat sheet](/sqlCheatSheet)
+* [Link and tuto](/link.md)
